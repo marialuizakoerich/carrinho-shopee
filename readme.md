@@ -68,7 +68,3 @@ Lista todos os itens com:
 Soma todos os subtotais dos itens do carrinho.
 
 ---
-
-## ▶️ Como executar
-
-1. Clone o repositório:
