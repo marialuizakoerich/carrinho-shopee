@@ -20,12 +20,11 @@ Praticar conceitos de JavaScript com Node.js, utilizando:
 ---
 
 ## 📁 Estrutura do projeto
-src/
-├── services/
-│ ├── cart.js
-│ └── item.js
-└── index.js
-
+- src/
+  - services/
+    - cart.js
+    - item.js
+  - index.js
 
 ---
 
